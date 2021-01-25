@@ -1,0 +1,13 @@
+REMOTE (repo remoto)
+	es una direccion donde podemos subir o descargar modificaciones
+	con respecto a nuestro repositorio. se uliza como pto de ref asi
+	como tmb para la copia del conte de ntro repo, 
+SITIO DE REPO
+	GITHUB.COM
+	GITLAB.COM
+	BITBUCKET.ORG
+COMANDOS
+	git remote --> lista los remotos agreados en el repo
+	git remote add <alias> <url> --> carga un remoto
+	git remote remove <alias> --> remueve el remoto de la lita
+	git remote rename <orig> <nvo> --> cambiar el nom del remoto
