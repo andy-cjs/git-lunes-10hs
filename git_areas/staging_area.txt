@@ -1,0 +1,3 @@
+STAGING AREA - INDEX (Area de control de cambios)
+area donde se registran los archivos a los cuales se les hará seguimiento. al iniciar un repo se encuentra vacio, y debemos cargar el contenido a cual queremos realizarle el control. una vez agregado al index, podremos efectuar los cambios en el repo
+Nota: cuando agregamos un arch debemos evitar editarlo tras haber realizado la captura del cod, debido a q cuando usamos el comando correspondiente se hace una captura del mismo y lo q se almancea en formato BLOG es eso.
