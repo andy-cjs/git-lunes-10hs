@@ -1,0 +1,26 @@
+REPOSITORY - repositorio
+	es el lugar donde se almacenan los cambios efectuados
+	al realizar en commit. Los mismos se guardan en formato
+	BLOG (binary object file) y se los identifica mediante 
+	un nro de hash, el cual esta formado por la fecha
+	hora, usuario, correo y registro de cambios.
+NOTA:
+	GIT funciona como un grafo dirigido aciclico, es decir
+	los commit apuntan a una sola direccíon y ésta a sus
+	ancestros, es por esto que no se debe editar el historial
+	para evitar la pérdida de referencia.
+GIT 
+	git commit --> emite un commit (validacion de cambios)
+	git commit -m --> emite un commit con msj (no abre el editor)
+	git commit -a --> emite un commit agregando los cambios de archivo que se encuentra en el index
+	git commit -amend --> edita el ultimo commit en caso de error/revision
+
+	git diff <HASH> --> compara el working directory con el commit indicando
+	git diff <REF*> --> compara el working directory con el commit referente
+	git diff <REF> --<file> --> compara el arch esp con el commit
+	
+	* REF HEAD^ --> el padre del commit
+	  REF HEAD(cositodelaenie)n --> cant de commits anteriores
+		
+
+
