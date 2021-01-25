@@ -1,0 +1,14 @@
+WORKING DIRECTORY:
+Es la carp donde llevamos a caba nuestro trabajo, donde creamos, editamos y eliminados archivo.
+Normalmente todo dir sea o no un repo se considera de trab, la dif q es con git se lleva un control del cont del mismos. Tambien rara vez, utilizaremos la consola o el bash (comandos de git) para trabajar con el contenido.
+COMANDOS:
+cd-check direc--> se utiliza p/ navegar entre las carp
+cd <root>     --> abre un direc especifico
+cd ..         --> vuelve al direc anterior
+mkdir <name>  --> crea direc con el nombre indicado
+rmdir <folder>--> elimina el direc especif
+cat | copycon | touch <name> --> crea un archivo con el nombre indicado
+GIT:
+git innit --> inicializa un repo de git
+git status --> compara el dir de trab con el index
+git add --> agrega un archivo para hacerle el seguimiento
