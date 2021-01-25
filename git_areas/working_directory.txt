@@ -2,7 +2,10 @@ WORKING DIRECTORY:
 Es la carp donde llevamos a caba nuestro trabajo, donde creamos, editamos y eliminados archivo.
 Normalmente todo dir sea o no un repo se considera de trab, la dif q es con git se lleva un control del cont del mismos. Tambien rara vez, utilizaremos la consola o el bash (comandos de git) para trabajar con el contenido.
 COMANDOS:
+<<<<<<< HEAD
 ls/dir --> lista el cont de un dir
+=======
+>>>>>>> 546e994 (se agrego Contenido-Working Directory)
 cd-check direc--> se utiliza p/ navegar entre las carp
 cd <root>     --> abre un direc especifico
 cd ..         --> vuelve al direc anterior
@@ -13,6 +16,11 @@ GIT:
 git innit --> inicializa un repo de git
 git status --> compara el dir de trab con el index
 git add --> agrega un archivo para hacerle el seguimiento
+<<<<<<< HEAD
 git config --list -->imprime en pantalla la conf de git
 git confg --get-regexp <term> --> busca en la conf la palabra indicada
 rm -rf .git -->elimina el repo, no afecta a los arch y carpetas
+=======
+>>>>>>> 546e994 (se agrego Contenido-Working Directory)
+
+no seeeeee
