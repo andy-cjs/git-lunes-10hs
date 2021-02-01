@@ -1,0 +1,16 @@
+* b81b0bf (master) se modif :Contenido-Working Directory
+| * 3459549 (curso_git/master) lunes01/02
+|/
+*   ed779de (HEAD -> repositories) Merge branch 'repositories'
+|\
+| * 0dd711a (curso_git/repositories) se agrego repos remoto
+* | 9c4d30d modf work dire
+|/
+* acdd017 se agrego conte en local repo
+* 19a29c7 se modif contenido - staging area
+| * 6913bb3 (curso_git/branches, branches) agrego branches
+|/
+* 59b0c88 se agrego sa
+* 546e994 se agrego Contenido-Working Directory
+* 773c7bc cristiandracedo@hotmail.com# Please enter the commit message for your changes. Lines s
+tarting
