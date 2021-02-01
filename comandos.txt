@@ -1,0 +1,4 @@
+fetch, trae el historial de cambios al repo pero no modifica el working directory(wd). sola// Actualiza la carpeta .git
+push, envía el historial de cambios y los archivos al repo remoto (permite crear/ eliminar ramas de los remotos)
+pull, trae el historial de cambios y combina el ultimo commit con nuestro WD. realiza un fetch + un merge
+merge, fusiona las ramas
